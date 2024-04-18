@@ -2,17 +2,17 @@
 
 ## Project Setup
 
-composer install
-npm install
+<p>composer install</p>
+<p>npm install</p>
+<p></p>
+<p>.env setup with database credentials and mail credentials.</p>
+<p></p>
+<p>php artisan key:generate</p>
+<p>php artisan migrate</p>
+<p>php artisan db:seed</p>
+<p>php artisan serve</p>
+<p>npm run dev</p>
 
-.env setup with database credentials and mail credentials.
-
-php artisan key:generate
-php artisan migrate
-php artisan db:seed
-php artisan serve
-npm run dev
-
-Admin login credential
-Email: reyajul255@gmail.com
-Password: 12345678
+<p>Admin login credential</p>
+<p>Email: reyajul255@gmail.com</p>
+<p>Password: 12345678</p>
